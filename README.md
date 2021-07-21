@@ -23,3 +23,5 @@ sehingga di dapatkan hasil seperti ini, saat di buka via google chrome.
 untuk pembuatan ikon pada dashboard, kas masuk, kas keluar, rekapitulasi kas, dan management user. kita membutuhkan components yang telah di sediakan oleh Booststrap.
 
 ![componen bstrp](https://user-images.githubusercontent.com/56376643/126436476-518f8566-312c-4cde-9dc0-75a38dc32f47.JPG)
+
+demikian yang baru bisa saya sampaikan, mohon maaf sekali jika jauh dari kata sempurna.
